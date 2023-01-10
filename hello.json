@@ -1,0 +1,167 @@
+{
+  "H1": "How to ZIP the folder",
+  "H2": "Upload your file and convert ZIP to folder",
+  "TITLE": "How to ZIP the folder | ZIP folders online",
+  "META": "Worried about how to ZIP the folder ? Use this free tool and get the conversion done in seconds",
+  "LABEL": " ",
+  "color": "#ffaa00",
+  "img": "/img/zipfolder.png",
+  "imgwidth": "36px",
+  "imgheight": "36px",
+  "nofileupload": true,
+  "imgalt": "image",
+  "BREADCRUMB_LABEL": " ",
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/img/howto.png",
+    "heading": "Steps to create a ZIP folder are as follows:",
+    "steps": [
+      "a. Browse the folder you want to convert or Click on the drop down arrow and select Dropbox/Google Drive",
+      "b. after uploading the required folder wait till the progress is taking place.",
+      "c. after the conversion is done you can download your folder"
+    ]
+  },
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "Quickly Zip the folder",
+      "content": "Simply drop your file from your storage like drive, dropbox or from your device and let our tool do the rest "
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Compatible with all platforms",
+      "content": "Our tool works across the platform to ensure that zipping a folder is easy and error free.So be it windows , linux, or any laptop ,tab, mobile phone we are compatible with everything."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "100 % safe and secure",
+      "content": "We understand the value of privacy and security. So once the process is done file is automatically deleted from here"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Downloading option available",
+      "content": "After folder to ZIP conversion is done you can easily download the file and keep it safe on your device "
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "We do not charge",
+      "content": "We are here to support you with your everyday work and yes we do not charge for this.Zip the folder tool is completely free and online "
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Best tool to Zip folder online",
+      "content": "We believe in maintaing the quality of converted file.We aim to provide quality conversion with the help of quality process and advanced software so that file quality stay unaltered"
+    }
+  ],
+  "FAQ": [
+    {
+      "question": "Is it safe to allow access to my drive?",
+      "answer": "Yes, it is absolutely safe to allow and give us access to your drive. We won't be making any changes to your site and your dfiles will be safe with you"
+    },
+    {
+      "question": "How can I upload files from my drive/dropbox?",
+      "answer": "Click on the drop down arrow and select Dropbox/Google Drive. Select the Google account from where you want to link your drive. Now you can select the files that you want to upload"
+    },
+    {
+      "question": "Can I ZIP multiple folders?",
+      "answer": "Yes, you can use ZIP folder creator to ZIP together multiple folders. All the folders will be Zipped together on one folder."
+    },
+    {
+      "question": "How does it work?",
+      "answer": "ZIP uses lossless data compression techniques to compress your folders, saving the original quality of the folders. ZIP folders can be described as archive and can be used to ZIP together multiple folders."
+    },
+    {
+      "question": "Do I need to download another application to access the ZIP folders?",
+      "answer": "Your laptop or PC has an inbuilt software that can open ZIP folders. You do need to download another application."
+    },
+    {
+      "question": "How can I convert back from ZIP to folders?",
+      "answer": "You can extract your ZIP folders to view the folders inside. You can directly do it on your laptop or PC, or use our tool ZIP File UnZIPper, in order to view the folders. Tjis tool also converts back the ZIPped folder ingto original folder fomat and you can download the folders from our website."
+    },
+    {
+      "question": "How can I view the folders in the ZIP?",
+      "answer": "You can easily view your ZIP folders on your laptop or PC. Both Windows and iOS operating system have inbuilt applications which can directly extract and open ZIP folders. In order to view your ZIP folders, you need to extract it. Extracting can easily be done by right clicking on the folder and clicking on Extract Files. If your operating system doesn't have an inbuilt software, then you can use our tool ZIP File UnZIPper, in order to view the folders."
+    },
+    {
+      "question": "Will my data and folders be stored on the server?",
+      "answer": "No data is uploaded on our server and hence all your folders are safe with you. In case you refresh the browser, you will have to reupload the folders, for the process to take place since, folders are not saved on our website."
+    },
+    {
+      "question": "What are the benefits of using ZIP creator?",
+      "answer": "You can ZIP your folders to reduce the folder size, without changing the quality. It helps in sending folders across quickly, since the folder size is less. Similar or related folders can be Zipped together and easier to navigate through."
+    },
+    {
+      "question": "What will be the folder size after conversion?",
+      "answer": "ZIP folders use lossless data compression techniques, and compress your folders without losing out on the quality. Therefore the folder size will be lesser than the original uploaded folders, but the quality will not be compromised."
+    },
+    {
+      "question": "I refreshed the browser by mistake. What to do now?",
+      "answer": "Since our website does not store any data or folders, you will have to reupload the folders for conversion."
+    },
+    {
+      "question": "How much time will it take to create a ZIP folder?",
+      "answer": "The conversion from folder to ZIP can take from almost no time to a few seconds. It all depends on the number of folders you are converting. Since you can ZIP multiple folders in one ZIP folder, the time taken for conversion will be directly proportional to the number of folders in the ZIP. One folder conversion take less than a second, while more folders can take upto a few seconds."
+    },
+    {
+      "question": "Will the quality of my folders change after conversion?",
+      "answer": "The purpose of ZIP folders is to reduce the folder size, without compromising on the quality of the actual folders. The size of the folder i.e., the ZIP folder created will be less than the actual folder, but the quality of the fil/folders will not be compromised."
+    },
+    {
+      "question": "Is it safe to use?",
+      "answer": "ZIP folder creator is 100% safe to use and does not save your folder. No data is uploaded and hence all your folders are safe with you. In case you refresh the browser, you will have to reupload the folders, for the process to take place since, folders are not saved on our website."
+    },
+    {
+      "question": "Will I be charged to use the website?",
+      "answer": "Our website is absolutely free and you can use it as many times as you want. There is no free trial uses, after which you will have to pay for using our services. We won't charge you anything."
+    },
+    {
+      "question": "Will I have to create an account to use the website?",
+      "answer": "Our website does not require you to sign up or create an account. The platform is absolutely free and you can compress as many folders as you want."
+    },
+    {
+      "question": "Does it support both Android and iOS platforms?",
+      "answer": "Yes, our website works on browser, and therefore supports both iOS and Android platforms"
+    },
+    {
+      "question": "Which Windows versions does ZIP a folder support?",
+      "answer": "Our website is completely web-based and therefore provides cross-platform support. This means that our tool supports all versions of Windows. It not only works on windows operating system, but can work on any other operating system, that supports a browser."
+    },
+    {
+      "question": "What is a zip folder ? ",
+      "answer": "A ZIP folder is a type of compressed folder that contains multiple files, in order to use those files you need to extract them"
+    },
+    {
+      "question": "Do you lose quality while zipping folders? ",
+      "answer": "No, there is no loss of data , image quality associated with zipping or unzipping the folder."
+    },
+    {
+      "question": "How much does zipping reduce folder size?",
+      "answer": "Zipping a folder can Approximately reduce 30-40 % of orignal file size."
+    },
+    {
+      "question": "Do Zip folders upload faster?",
+      "answer": "Yes, due to reduced size it takes less time to transfer the folder. "
+    },
+    {
+      "question": "Will you be saving my folder while I use this zip creator?",
+      "answer": "No, absolutely not. Your files will be deleted from our servers as soon as you leave our website."
+    }
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.3.11/themes/default-dark/style.min.css\" integrity=\"sha512-WXJRkkdEPD+ELJ8Q/Wlbob6an44EFSIzz8+IAZKIpDzUr5ft20F310lnW8qaqP9bCconQq+ukILgrO1lJDAQvg==\" crossorigin=\"anonymous\" />",
+    "<link rel=\"stylesheet\" href=\"/css/zip.css\" />"
+  ],
+  "jscdns": [
+    " <script src=\"/assets/js/googledrive.js\" defer></script>",
+    " <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.2.1/jszip.js\" integrity=\"sha512-vYFTnfZ1ylYRr65TdPUJMLYVank7/goAekV5wxTUqIMmLVWSm8VJWUcnhq00pj4aP4lL40IJyUvXmzyta941Gg==\" crossorigin=\"anonymous\" defer ></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.js\" integrity=\"sha512-rQsNJc2nhZwR4InvEnjwPWIBEfRAwH8QoBd3/UyFFwLuJ1GUozrMhqh0PBjZMt43KtB9RSlm2mcHRMAQgwtM3Q==\" crossorigin=\"anonymous\" defer ></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jszip-utils/0.1.0/jszip-utils.js\" integrity=\"sha512-vzp9X4pwJHRiGSEH692sqmRe5R8OQNKSCe1zg38GQoNUGJtnPrwhwKF3lbaFZMsT8ZQ3ppZ8tlLqkJGosi5/CA==\" crossorigin=\"anonymous\" defer></script>",
+    "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\" defer></script>",
+    "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/zipafolder.js\"></script>"
+  ]
+}
