@@ -68,5 +68,7 @@ function compress() {
 }
 
 document.querySelector(".container2").onclick = function () {
-  document.querySelector("#file1").click();
+  if(document.querySelector("#file1")){
+    document.querySelector("#file1").click();
+  }
 };
